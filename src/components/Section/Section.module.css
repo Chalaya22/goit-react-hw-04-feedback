@@ -1,0 +1,15 @@
+.section {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin: 0 auto;
+  border: none;
+  border-radius: 8px;
+  background-color: rgb(239, 240, 243);
+}
+.sectionTitle {
+  font-weight: 500;
+  color: rgb(202, 59, 174);
+  text-align: center;
+}
